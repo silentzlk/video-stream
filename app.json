@@ -57,7 +57,7 @@
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "binary"
+            "value": "binary_bots_support"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
