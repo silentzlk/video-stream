@@ -40,7 +40,7 @@ python3 main.py # run the bot.
 # continue the host with screen or anything else, thanks for reading.
 ```
 
-## Full credits 
+## Credits 
 [levina lab video stream bot](https://github.com/levina-lab/video-stream)
 
 ### Support
